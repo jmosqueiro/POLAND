@@ -1,0 +1,11 @@
+/Users/Furos/Documents/POLAND/GuessNumber/bin/Debug/netcoreapp3.0/GuessNumber
+/Users/Furos/Documents/POLAND/GuessNumber/bin/Debug/netcoreapp3.0/GuessNumber.deps.json
+/Users/Furos/Documents/POLAND/GuessNumber/bin/Debug/netcoreapp3.0/GuessNumber.runtimeconfig.json
+/Users/Furos/Documents/POLAND/GuessNumber/bin/Debug/netcoreapp3.0/GuessNumber.runtimeconfig.dev.json
+/Users/Furos/Documents/POLAND/GuessNumber/bin/Debug/netcoreapp3.0/GuessNumber.dll
+/Users/Furos/Documents/POLAND/GuessNumber/bin/Debug/netcoreapp3.0/GuessNumber.pdb
+/Users/Furos/Documents/POLAND/GuessNumber/obj/Debug/netcoreapp3.0/GuessNumber.csprojAssemblyReference.cache
+/Users/Furos/Documents/POLAND/GuessNumber/obj/Debug/netcoreapp3.0/GuessNumber.AssemblyInfoInputs.cache
+/Users/Furos/Documents/POLAND/GuessNumber/obj/Debug/netcoreapp3.0/GuessNumber.AssemblyInfo.cs
+/Users/Furos/Documents/POLAND/GuessNumber/obj/Debug/netcoreapp3.0/GuessNumber.dll
+/Users/Furos/Documents/POLAND/GuessNumber/obj/Debug/netcoreapp3.0/GuessNumber.pdb
