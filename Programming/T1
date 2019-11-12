@@ -1,1 +1,6 @@
 mving files
+1. Create prj folder
+2. cd to prj folder
+3. dotnet new console
+4. code
+5. dotnet run
