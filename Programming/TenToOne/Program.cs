@@ -34,6 +34,8 @@ namespace TenToOne
                 else
                 {
                     t *= a;
+                    //a= t*t; prints 1
+                    //t * t = a; error
                 }
                 
                 Console.WriteLine("{0} ^ {1} = {2}",a, i, t);
