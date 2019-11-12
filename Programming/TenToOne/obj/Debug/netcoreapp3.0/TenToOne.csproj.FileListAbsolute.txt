@@ -1,0 +1,11 @@
+/Users/Furos/Documents/POLAND/Programming/TenToOne/bin/Debug/netcoreapp3.0/TenToOne
+/Users/Furos/Documents/POLAND/Programming/TenToOne/bin/Debug/netcoreapp3.0/TenToOne.deps.json
+/Users/Furos/Documents/POLAND/Programming/TenToOne/bin/Debug/netcoreapp3.0/TenToOne.runtimeconfig.json
+/Users/Furos/Documents/POLAND/Programming/TenToOne/bin/Debug/netcoreapp3.0/TenToOne.runtimeconfig.dev.json
+/Users/Furos/Documents/POLAND/Programming/TenToOne/bin/Debug/netcoreapp3.0/TenToOne.dll
+/Users/Furos/Documents/POLAND/Programming/TenToOne/bin/Debug/netcoreapp3.0/TenToOne.pdb
+/Users/Furos/Documents/POLAND/Programming/TenToOne/obj/Debug/netcoreapp3.0/TenToOne.csprojAssemblyReference.cache
+/Users/Furos/Documents/POLAND/Programming/TenToOne/obj/Debug/netcoreapp3.0/TenToOne.AssemblyInfoInputs.cache
+/Users/Furos/Documents/POLAND/Programming/TenToOne/obj/Debug/netcoreapp3.0/TenToOne.AssemblyInfo.cs
+/Users/Furos/Documents/POLAND/Programming/TenToOne/obj/Debug/netcoreapp3.0/TenToOne.dll
+/Users/Furos/Documents/POLAND/Programming/TenToOne/obj/Debug/netcoreapp3.0/TenToOne.pdb

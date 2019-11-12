@@ -6,7 +6,12 @@ namespace TenToOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int counter = 10;
+            while (counter > 0)
+            {
+                Console.WriteLine("{0} Hello World!",counter);
+                counter--;
+            }
         }
     }
 }
