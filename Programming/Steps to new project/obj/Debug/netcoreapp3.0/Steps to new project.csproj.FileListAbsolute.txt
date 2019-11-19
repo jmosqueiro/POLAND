@@ -1,0 +1,11 @@
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/bin/Debug/netcoreapp3.0/Steps to new project
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/bin/Debug/netcoreapp3.0/Steps to new project.deps.json
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/bin/Debug/netcoreapp3.0/Steps to new project.runtimeconfig.json
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/bin/Debug/netcoreapp3.0/Steps to new project.runtimeconfig.dev.json
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/bin/Debug/netcoreapp3.0/Steps to new project.dll
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/bin/Debug/netcoreapp3.0/Steps to new project.pdb
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/obj/Debug/netcoreapp3.0/Steps to new project.csprojAssemblyReference.cache
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/obj/Debug/netcoreapp3.0/Steps to new project.AssemblyInfoInputs.cache
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/obj/Debug/netcoreapp3.0/Steps to new project.AssemblyInfo.cs
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/obj/Debug/netcoreapp3.0/Steps to new project.dll
+/Users/Furos/Documents/POLAND/Programming/Steps to new project/obj/Debug/netcoreapp3.0/Steps to new project.pdb
