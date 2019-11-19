@@ -1,0 +1,11 @@
+/Users/Furos/Documents/POLAND/Programming/Arrays/obj/Debug/netcoreapp3.0/Arrays.csprojAssemblyReference.cache
+/Users/Furos/Documents/POLAND/Programming/Arrays/obj/Debug/netcoreapp3.0/Arrays.AssemblyInfoInputs.cache
+/Users/Furos/Documents/POLAND/Programming/Arrays/obj/Debug/netcoreapp3.0/Arrays.AssemblyInfo.cs
+/Users/Furos/Documents/POLAND/Programming/Arrays/bin/Debug/netcoreapp3.0/Arrays
+/Users/Furos/Documents/POLAND/Programming/Arrays/bin/Debug/netcoreapp3.0/Arrays.deps.json
+/Users/Furos/Documents/POLAND/Programming/Arrays/bin/Debug/netcoreapp3.0/Arrays.runtimeconfig.json
+/Users/Furos/Documents/POLAND/Programming/Arrays/bin/Debug/netcoreapp3.0/Arrays.runtimeconfig.dev.json
+/Users/Furos/Documents/POLAND/Programming/Arrays/bin/Debug/netcoreapp3.0/Arrays.dll
+/Users/Furos/Documents/POLAND/Programming/Arrays/bin/Debug/netcoreapp3.0/Arrays.pdb
+/Users/Furos/Documents/POLAND/Programming/Arrays/obj/Debug/netcoreapp3.0/Arrays.dll
+/Users/Furos/Documents/POLAND/Programming/Arrays/obj/Debug/netcoreapp3.0/Arrays.pdb
