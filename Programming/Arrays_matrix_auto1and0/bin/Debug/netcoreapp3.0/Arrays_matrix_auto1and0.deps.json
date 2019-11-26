@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Arrays_matrix_auto1and0/1.0.0": {
+        "runtime": {
+          "Arrays_matrix_auto1and0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays_matrix_auto1and0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

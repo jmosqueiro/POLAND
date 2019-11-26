@@ -1,0 +1,11 @@
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/bin/Debug/netcoreapp3.0/Arrays_matrix_auto1and0
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/bin/Debug/netcoreapp3.0/Arrays_matrix_auto1and0.deps.json
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/bin/Debug/netcoreapp3.0/Arrays_matrix_auto1and0.runtimeconfig.json
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/bin/Debug/netcoreapp3.0/Arrays_matrix_auto1and0.runtimeconfig.dev.json
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/bin/Debug/netcoreapp3.0/Arrays_matrix_auto1and0.dll
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/bin/Debug/netcoreapp3.0/Arrays_matrix_auto1and0.pdb
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/obj/Debug/netcoreapp3.0/Arrays_matrix_auto1and0.csprojAssemblyReference.cache
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/obj/Debug/netcoreapp3.0/Arrays_matrix_auto1and0.AssemblyInfoInputs.cache
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/obj/Debug/netcoreapp3.0/Arrays_matrix_auto1and0.AssemblyInfo.cs
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/obj/Debug/netcoreapp3.0/Arrays_matrix_auto1and0.dll
+/Users/Furos/Documents/POLAND/Programming/Arrays_matrix_auto1and0/obj/Debug/netcoreapp3.0/Arrays_matrix_auto1and0.pdb
