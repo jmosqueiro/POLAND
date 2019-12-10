@@ -1,0 +1,11 @@
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/bin/Debug/netcoreapp3.0/matrix_ex1
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/bin/Debug/netcoreapp3.0/matrix_ex1.deps.json
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/bin/Debug/netcoreapp3.0/matrix_ex1.runtimeconfig.json
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/bin/Debug/netcoreapp3.0/matrix_ex1.runtimeconfig.dev.json
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/bin/Debug/netcoreapp3.0/matrix_ex1.dll
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/bin/Debug/netcoreapp3.0/matrix_ex1.pdb
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/obj/Debug/netcoreapp3.0/matrix_ex1.csprojAssemblyReference.cache
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/obj/Debug/netcoreapp3.0/matrix_ex1.AssemblyInfoInputs.cache
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/obj/Debug/netcoreapp3.0/matrix_ex1.AssemblyInfo.cs
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/obj/Debug/netcoreapp3.0/matrix_ex1.dll
+/Users/Furos/Documents/POLAND/Programming/matrix_ex1/obj/Debug/netcoreapp3.0/matrix_ex1.pdb
