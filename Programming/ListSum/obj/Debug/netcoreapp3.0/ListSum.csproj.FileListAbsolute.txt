@@ -1,0 +1,11 @@
+/Users/Furos/Documents/POLAND/Programming/ListSum/obj/Debug/netcoreapp3.0/ListSum.csprojAssemblyReference.cache
+/Users/Furos/Documents/POLAND/Programming/ListSum/obj/Debug/netcoreapp3.0/ListSum.AssemblyInfoInputs.cache
+/Users/Furos/Documents/POLAND/Programming/ListSum/obj/Debug/netcoreapp3.0/ListSum.AssemblyInfo.cs
+/Users/Furos/Documents/POLAND/Programming/ListSum/bin/Debug/netcoreapp3.0/ListSum
+/Users/Furos/Documents/POLAND/Programming/ListSum/bin/Debug/netcoreapp3.0/ListSum.deps.json
+/Users/Furos/Documents/POLAND/Programming/ListSum/bin/Debug/netcoreapp3.0/ListSum.runtimeconfig.json
+/Users/Furos/Documents/POLAND/Programming/ListSum/bin/Debug/netcoreapp3.0/ListSum.runtimeconfig.dev.json
+/Users/Furos/Documents/POLAND/Programming/ListSum/bin/Debug/netcoreapp3.0/ListSum.dll
+/Users/Furos/Documents/POLAND/Programming/ListSum/bin/Debug/netcoreapp3.0/ListSum.pdb
+/Users/Furos/Documents/POLAND/Programming/ListSum/obj/Debug/netcoreapp3.0/ListSum.dll
+/Users/Furos/Documents/POLAND/Programming/ListSum/obj/Debug/netcoreapp3.0/ListSum.pdb

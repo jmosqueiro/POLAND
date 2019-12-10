@@ -17,10 +17,9 @@ namespace Matrix_count5s
                 {
                 Console.Write("A [{0},{1}]: ",i,j);
                 A[i,j] = int.Parse(Console.ReadLine());   
-                if (A[i,j] == 5 ) //check if i,j == 5 after de reads
-                    {
-                        ct++;
-                    }
+                //if (A[i,j] == 5 ) //check if i,j == 5 after de reads
+                        ct+=A[i,j]; //Number Sum
+                        //ct++;
                 }
             }
 

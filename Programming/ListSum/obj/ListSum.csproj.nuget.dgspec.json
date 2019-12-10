@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Furos/Documents/POLAND/Programming/Matrix_count5s/matrix_ex1.csproj": {}
+    "/Users/Furos/Documents/POLAND/Programming/ListSum/ListSum.csproj": {}
   },
   "projects": {
-    "/Users/Furos/Documents/POLAND/Programming/Matrix_count5s/matrix_ex1.csproj": {
+    "/Users/Furos/Documents/POLAND/Programming/ListSum/ListSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Furos/Documents/POLAND/Programming/Matrix_count5s/matrix_ex1.csproj",
-        "projectName": "matrix_ex1",
-        "projectPath": "/Users/Furos/Documents/POLAND/Programming/Matrix_count5s/matrix_ex1.csproj",
+        "projectUniqueName": "/Users/Furos/Documents/POLAND/Programming/ListSum/ListSum.csproj",
+        "projectName": "ListSum",
+        "projectPath": "/Users/Furos/Documents/POLAND/Programming/ListSum/ListSum.csproj",
         "packagesPath": "/Users/Furos/.nuget/packages/",
-        "outputPath": "/Users/Furos/Documents/POLAND/Programming/Matrix_count5s/obj/",
+        "outputPath": "/Users/Furos/Documents/POLAND/Programming/ListSum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Furos/.nuget/NuGet/NuGet.Config"
