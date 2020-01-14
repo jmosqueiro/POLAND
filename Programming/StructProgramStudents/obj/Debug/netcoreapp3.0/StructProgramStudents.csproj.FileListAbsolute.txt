@@ -1,0 +1,11 @@
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/obj/Debug/netcoreapp3.0/StructProgramStudents.csprojAssemblyReference.cache
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/obj/Debug/netcoreapp3.0/StructProgramStudents.AssemblyInfoInputs.cache
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/obj/Debug/netcoreapp3.0/StructProgramStudents.AssemblyInfo.cs
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/bin/Debug/netcoreapp3.0/StructProgramStudents
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/bin/Debug/netcoreapp3.0/StructProgramStudents.deps.json
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/bin/Debug/netcoreapp3.0/StructProgramStudents.runtimeconfig.json
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/bin/Debug/netcoreapp3.0/StructProgramStudents.runtimeconfig.dev.json
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/bin/Debug/netcoreapp3.0/StructProgramStudents.dll
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/bin/Debug/netcoreapp3.0/StructProgramStudents.pdb
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/obj/Debug/netcoreapp3.0/StructProgramStudents.dll
+/Users/Furos/Documents/POLAND/Programming/StructProgramStudents/obj/Debug/netcoreapp3.0/StructProgramStudents.pdb
